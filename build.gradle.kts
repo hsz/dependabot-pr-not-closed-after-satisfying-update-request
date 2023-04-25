@@ -13,4 +13,5 @@ repositories {
 
 dependencies {
     implementation("junit:junit:${junitVersionProvider.get()}")
+    implementation("tec.units:unit-ri:1.0.2")
 }
